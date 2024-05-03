@@ -6,3 +6,4 @@ Pnina
 amit
 test2
 rebase1
+amend 1
